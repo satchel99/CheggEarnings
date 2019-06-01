@@ -1,4 +1,4 @@
-CheggEarnings
+<h1><b>CheggEarnings</b></h1>
 
 This is a tool that CheggTutors can use to easily calculate their total earnings from a specific period in time to the present, and get a tabulate report that breaks down total earnings by subject for this period.
 
